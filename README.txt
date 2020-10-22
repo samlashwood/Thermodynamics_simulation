@@ -1,4 +1,4 @@
-Thermodynamics snookered computing project
+Thermodynamics computing project
 Samuel Lashwood- 01190892
 
 Task 1- See 'Classballs.py'
@@ -26,3 +26,5 @@ Brownian Motion extension- Run 'brownianmotion1.py' for an animation of Brownian
 				over a long time will run, and produce an image of the final animation frame,
 				with the particle path marked in blue. A PDF histogram will also be produced with the 
 				random walks PDF plotted.
+				
+This project recieved a first at 75%
